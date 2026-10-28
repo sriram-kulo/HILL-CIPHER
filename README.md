@@ -129,5 +129,6 @@ int main(void)
 
 ## OUTPUT
 <img width="274" height="107" alt="image" src="https://github.com/user-attachments/assets/f30da8c1-486a-4034-985a-c8845130deb4" />
+
 ## RESULT
 In conclusion, the Hill cipher implementation was executed successfully.
